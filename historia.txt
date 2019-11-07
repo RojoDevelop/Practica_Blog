@@ -1,2 +1,3 @@
 Hola mi nombre es Rafael Rojo Pérez
-soy Ingeniero en sistemas computacionales
+soy Ingeniero en sistemas 
+Computacionales
