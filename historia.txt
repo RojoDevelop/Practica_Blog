@@ -1,3 +1,13 @@
 Hola mi nombre es Rafael Rojo Pérez
 soy Ingeniero en sistemas 
 Computacionales
+
+Me gusta la programación de videojuegos con Unity
+Próximamente participaremos en el concurso estatal de robotica
+
+LOs cursos actuales en udemy son:
+
+1.- Unity
+2.- Unity
+3.- Reconocimiento de patrones
+
