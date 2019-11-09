@@ -6,8 +6,12 @@ body{
       
  }
 
-head{
+ p{
 
-	color:blue;
-	
+ 	color:gray;
+ }
+
+h1{
+
+	color:blue;	
 }
